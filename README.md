@@ -13,7 +13,7 @@ Just getting started with my front-page.
 - 👯 I’m looking to collaborate on ... anything?
 - 🤔 I’m looking for help with ... everything!
 - 💬 Ask me about ... submarines!
-- 📫 How to reach me: ... @clearlybaffled on [twitter](https://twitter.com/clearlybaffled) | [discord](https://discordapp.com/users/756344850290442271) | [gmail](mailto:clearlybaffled120@gmail.com)
+- 📫 How to reach me: ... @clearlybaffled on [discord](https://discordapp.com/users/756344850290442271) | [gmail](mailto:clearlybaffled120@gmail.com)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... 
 
@@ -31,9 +31,11 @@ Just getting started with my front-page.
 </p>
 
 <details>
-<summary>Activity</summary>
+<summary>Stats</summary>
 <p align="center">
-  
+
+![](https://github-readme-stats.vercel.app/api?username=clearlybaffled&show_icons=true&theme=solarized-dark)
+
 [![clearlybaffled's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clearlybaffled&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>

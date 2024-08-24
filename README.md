@@ -34,7 +34,7 @@ Just getting started with my front-page.
 <summary>Stats</summary>
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=clearlybaffled&show_icons=true&theme=solarized-dark)
+![](https://github-readme-stats.vercel.app/api?username=clearlybaffled&show_icons=true&theme=solarized-dark)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clearlybaffled&layout=compact&hide=html&theme=solarized-dark) 
 
 [![clearlybaffled's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clearlybaffled&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

@@ -38,5 +38,11 @@ Just getting started with my front-page.
 
 [![clearlybaffled's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clearlybaffled&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### Recently I'm coding in...
+
+<a href="https://codestats.net/users/clearlybaffled">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/clearlybaffled?bg_color=111&text_color=aaa&grid_color=333&language_colors=["3e4053","cc4b48","518fbd","ba7a2b","60bd68","f17cb0","b2912f","c71585","b276b2"]' />
+</a>
+
 </p>
 </details>
